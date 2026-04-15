@@ -5,12 +5,12 @@ In this project, we explore shortcut learning in an image-classification context
 
 ## 📖 Table of Contents (for Main Project Notebook)
 
-### [Part 1. Data Processing]
+### Part 1. Data Processing
 * **a) Import Dataset**
 * **b) Augment Data**
 * **c) Prepare DataLoaders**
 
-### [Part 2. Implement Models]
+### Part 2. Implement Models
 * **a) Model Architecture**
     * i) Baseline ERM
     * ii) GroupDRO
@@ -19,7 +19,7 @@ In this project, we explore shortcut learning in an image-classification context
     * ERM Training loop functions
     * GroupDRO Training Functions
 
-### [Part 3. Test Models]
+### Part 3. Test Models
 * **a) Baseline ERM**
 * **b) GroupDRO**
 
