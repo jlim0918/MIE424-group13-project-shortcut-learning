@@ -23,7 +23,7 @@ In this project, we explore shortcut learning in an image-classification context
 * **a) Baseline ERM**
 * **b) GroupDRO**
 
-### [Part 4. Data Visualization](#part-4-data-visualization)
+### Part 4. Data Visualization
 * **a) Saliency Map Functions**
 * **b) Average Saliency Maps (ERM)**
 * **c) Average Saliency Maps (GroupDRO)**
